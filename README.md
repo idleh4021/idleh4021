@@ -5,7 +5,7 @@
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="left">
 
-[![DongHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![DongHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/idleh4021/github-readme-stats)
 </div>
 <!--
 **idleh4021/idleh4021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
